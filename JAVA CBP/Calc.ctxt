@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=temp
+comment0.target=Calc(Grid)
+comment1.params=x\ y\ player
+comment1.target=boolean\ verify(int,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ draw()
+comment3.params=x\ y\ bjx\ bjy\ player
+comment3.target=boolean\ check(int,\ int,\ int,\ int,\ int)
+comment4.params=x\ y
+comment4.target=boolean\ right(int,\ int)
+numComments=5

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Grid()
+comment1.params=
+comment1.target=int\ empty()
+comment2.params=
+comment2.target=int[][]\ get_grid()
+comment3.params=a\ b\ c
+comment3.target=boolean\ gridIsEqualTo(int,\ int,\ int)
+comment4.params=a\ b\ temp_player
+comment4.target=void\ set_grid(int,\ int,\ int)
+comment5.params=
+comment5.target=int\ get_width()
+comment6.params=
+comment6.target=int\ get_length()
+comment7.params=x
+comment7.target=int\ searchLength(int)
+comment8.params=player\ max
+comment8.target=int\ switchplayer(int,\ int)
+numComments=9
