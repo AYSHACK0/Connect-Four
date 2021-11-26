@@ -4,10 +4,6 @@ Tell the reader (someone who does not know anything about this project)
 all she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-DEPENDENCIES:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Connect - Four
+PURPOSE OF PROJECT: To digitalize a traditional board game
+VERSION or DATE: 15/06/2021
